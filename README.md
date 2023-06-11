@@ -1,5 +1,6 @@
 ### Hi there, I'm cbei 👋
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DailyGrow)](https://github.com/DailyGrow/github-readme-stats)
 <!--
 **DailyGrow/DailyGrow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

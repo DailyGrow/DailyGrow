@@ -1,7 +1,7 @@
 ### Hi there, I'm cbei 👋
 
 
-- 🌱 B.E. @Zhejiang University    M.S. @Northeastern University
+- 🌱 B.E. @Zhejiang University        M.S. @Northeastern University
 
 
 [![DailyGrow's GitHub stats](https://github-readme-stats.vercel.app/api?username=DailyGrow)](https://github.com/DailyGrow/github-readme-stats)
